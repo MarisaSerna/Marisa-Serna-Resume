@@ -1,0 +1,23 @@
+Searching for src in/LearnCS8-Resume (Found 13 matches in 3 files)
+
+/LearnCS8-Resume/gulpfile.js:
+	53:   var bootstrap = gulp.src('./node_modules/bootstrap/dist/**/*')
+	56:   var fontAwesome = gulp.src('./node_modules/@fortawesome/**/*')
+	59:   var jqueryEasing = gulp.src('./node_modules/jquery.easing/*.js')
+	62:   var jquery = gulp.src([
+	73:     .src("./scss/**/*.scss")
+	99:     .src([
+
+/LearnCS8-Resume/index.html:
+	32:         <img class="img-fluid img-profile rounded-circle mx-auto mb-2" src="img/marisaserna.jpg" alt="Profile Picture">
+	194:             <img src="img/image2.jpeg" width="500px">
+	205:   <script src="vendor/jquery/jquery.min.js"></script>
+	206:   <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+	209:   <script src="vendor/jquery-easing/jquery.easing.min.js"></script>
+	212:   <script src="js/resume.min.js"></script>
+
+/LearnCS8-Resume/package-lock.json:
+	975:             "integrity": "sha512-6tvAOO+D6OENvRAh524Dh9jcfKTYDQAqvqezbCW82xj5X0pSrcpxtvRKHLG0yBY6SD7PSDrJaj+0AiOcKVd1Xg==",
+
+Found 13 matches in 3 files 
+
